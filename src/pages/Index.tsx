@@ -2,8 +2,15 @@ import {
   InteractiveBackground,
   Header,
   HeroSection,
+  IntroSection,
   LicenseSection,
+  PainSection,
+  BenefitsSection,
+  StepsSection,
+  ClientsSection,
   AboutSection,
+  StatsSection,
+  ReviewsSection,
   ContactSection,
   Footer,
 } from "@/components/landing";
@@ -16,8 +23,15 @@ const Index = () => {
         <Header />
         <main>
           <HeroSection />
+          <IntroSection />
           <LicenseSection />
+          <PainSection />
+          <BenefitsSection />
+          <StepsSection />
+          <ClientsSection />
           <AboutSection />
+          <StatsSection />
+          <ReviewsSection />
           <ContactSection />
         </main>
         <Footer />

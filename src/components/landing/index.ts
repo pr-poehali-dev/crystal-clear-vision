@@ -1,7 +1,14 @@
 export { default as InteractiveBackground } from "./InteractiveBackground";
 export { default as Header } from "./Header";
 export { default as HeroSection } from "./HeroSection";
+export { default as IntroSection } from "./IntroSection";
 export { default as LicenseSection } from "./LicenseSection";
+export { default as PainSection } from "./PainSection";
+export { default as BenefitsSection } from "./BenefitsSection";
+export { default as StepsSection } from "./StepsSection";
+export { default as ClientsSection } from "./ClientsSection";
 export { default as AboutSection } from "./AboutSection";
+export { default as StatsSection } from "./StatsSection";
+export { default as ReviewsSection } from "./ReviewsSection";
 export { default as ContactSection } from "./ContactSection";
 export { default as Footer } from "./Footer";
